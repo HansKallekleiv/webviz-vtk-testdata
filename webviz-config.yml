@@ -1,0 +1,13 @@
+title: ""
+# ------------------------------
+layout:
+  - section: Webviz Intro
+    content:
+      # ------------------------------
+
+
+      - page: Eclipse Grid Viewer
+        content:
+          - EclipseGridViewer:
+              roff_folder: ./
+              roff_grid_name: geogrid_900k
